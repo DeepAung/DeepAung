@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaung&label=Profile%20views&color=0e75b6&style=flat" alt="deepaung" /> </p>
 
-- 🌱 I’m currently learning **Golang(Fiber + Gorm), HTMX, etc.**
+- 🌱 I’m currently learning **Go, HTMX, Vim, etc.**
 
 - 👨‍💻 All of my projects are available at [deepaung.github.io/portfolio](deepaung.github.io/portfolio)
 
