@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashira Aungsumal</h1>
-<h3 align="center">A high school student at Debsirin school</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaung&label=Profile%20views&color=0e75b6&style=flat" alt="deepaung" /> </p>
+<h3 align="center">A Coding Enjoyer</h3>
 
 - 🌱 I’m currently learning **Go, HTMX, Vim, etc.**
 
-- 👨‍💻 All of my projects are available at [deepaung.github.io/portfolio](deepaung.github.io/portfolio)
+- 👨‍💻 You can visit my portfolio website at [deepaung.github.io/portfolio](https://deepaung.github.io/portfolio/)
 
 - 📫 How to reach me **i.deepaung@gmail.com**
 
