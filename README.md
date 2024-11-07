@@ -3,7 +3,7 @@
 
 # 💫 About Me
 - 🌱 I’m currently learning Golang, HTMX, Vim
-- 👨‍💻 You can visit my portfolio website at [deepaung.github.io/portfolio](https://deepaung.github.io/portfolio/)
+- 👨‍💻 You can visit my portfolio website at [deepaung.github.io/university-portfolio](https://deepaung.github.io/university-portfolio/)
 - 📫 How to reach me **i.deepaung@gmail.com**
 
 # 💻 Tech Stack
