@@ -2,8 +2,7 @@
 <h3 align="center">A Coding Enjoyer</h3>
 
 # 💫 About Me
-- 🌱 I’m currently learning Golang, HTMX, Vim
-- 👨‍💻 You can visit my portfolio website at [deepaung.github.io/university-portfolio](https://deepaung.github.io/university-portfolio/)
+- 🌱 I’m currently learning Golang, Next.js, HTMX, Vim
 - 📫 How to reach me **i.deepaung@gmail.com**
 
 # 💻 Tech Stack
