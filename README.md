@@ -15,4 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeepAung&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+[![wakatime](https://wakatime.com/badge/user/018cb043-a1dd-4017-bbc1-c48fa711f384.svg)](https://wakatime.com/@018cb043-a1dd-4017-bbc1-c48fa711f384)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
