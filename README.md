@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ashira Aungsumal</h1>
-<h3 align="center">A Coding Enjoyer</h3>
 
 # 💫 About Me
 - 🌱 I’m currently learning Rust, Golang, and K8s
