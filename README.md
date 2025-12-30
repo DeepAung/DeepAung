@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashira Aungsumal</h1>
 
-# 💫 About Me
-- 🌱 I’m currently learning Rust, Golang, and K8s
-- 📫 How to reach me **i.deepaung@gmail.com**
+# About Me
+- I’m currently learning Rust, Golang, and K8s
+- How to reach me **i.deepaung@gmail.com**
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=DeepAung&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
