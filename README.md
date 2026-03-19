@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ashira Aungsumal</h1>
-
-# About Me
-- I’m currently learning Rust, Golang, and K8s
-- How to reach me **i.deepaung@gmail.com**
-
-# 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=DeepAung&theme=dark&hide_border=false)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy-fork-two.vercel.app/?username=DeepAung&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+# Hi 👋, I'm Ashira Aungsumal
 
 [![wakatime](https://wakatime.com/badge/user/018cb043-a1dd-4017-bbc1-c48fa711f384.svg)](https://wakatime.com/@018cb043-a1dd-4017-bbc1-c48fa711f384)
+
+## About Me
+- Currently a computer engineering student at Chulalongkorn University
+- I’m learning Rust, Golang, and K8s
+- How to reach me **i.deepaung@gmail.com**
+
+## 📊 Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepAung&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 Github Trophies
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=DeepAung&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
