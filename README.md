@@ -11,4 +11,4 @@
 ![Stats](./profile/stats.svg)
 
 ## 🏆 Github Trophies
-[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=DeepAung&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](./profile/trophy.svg)
